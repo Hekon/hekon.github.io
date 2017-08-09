@@ -16,6 +16,36 @@
         font-family: 'Comfortaa', cursive;
     }
 
+    .services h1 {
+        font-weight: 400;
+        margin-top: 80px;
+        font-family: 'Comfortaa', cursive;
+    }
+    .services h3 {
+        font-weight: 100;
+        font-family: 'Comfortaa', cursive;
+        
+    }
+    .services hr {
+        border: 0;  
+        border-top: 1px solid whitesmoke;
+    }
+    
+    .services .services__text {
+        width: 80%;
+        margin: 30px auto;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .services ul {
+        list-style: none;
+        padding: 0;
+        padding-top: 30px;
+    }
+
+    .services li {
+        min-width: 150px;
+    }
         .hero button {
             color: white;
             display: block;
