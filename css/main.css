@@ -168,10 +168,15 @@
         padding: 5px;
     }
 
+    .contact__block select {
+        padding: 5px;
+    }
+
     .contact__block-text {
         margin-top: 3px;
         padding-right: 50px;
     }
+
 
 .form-label {
     display: inline-block;
