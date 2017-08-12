@@ -13,7 +13,11 @@
     display: inline-block;
 }
 
-
+.col-6 {
+    width: 49%;
+    display: inline-block;
+    min-width: 400px;
+}
 
 .fa {
     font-size: 60px;
