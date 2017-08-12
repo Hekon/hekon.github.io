@@ -151,3 +151,33 @@
 /*.main-menu > li:hover .dropdown:hover > li {
     background-color: grey;
 }*/
+
+/*
+    Get in touch
+*/
+
+.contact__block {
+    margin-top: 30px;
+}
+
+    .contact__block button {
+        margin-top: 20px;
+    }
+
+    .contact__block input {
+        padding: 5px;
+    }
+
+    .contact__block-text {
+        margin-top: 3px;
+        padding-right: 50px;
+    }
+
+.form-label {
+    display: inline-block;
+    min-width: 100px;
+}
+
+.form-group {
+    margin-bottom: 15px
+}
